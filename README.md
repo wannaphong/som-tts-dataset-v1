@@ -4,6 +4,8 @@ Som TTS dataset is a Open Data Thai TTS. It was created by open-weight TTS model
 
 This repository collects scripts for creating Thai TTS dataset.
 
+HuggingFace dataset: [https://huggingface.co/datasets/pythainlp/som_tts_dataset](https://huggingface.co/datasets/pythainlp/som_tts_dataset)
+
 TTS Model that use this dataset: [https://github.com/awslabs/FastThaiG2P](https://github.com/awslabs/FastThaiG2P)
 
 
