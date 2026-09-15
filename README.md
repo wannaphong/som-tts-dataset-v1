@@ -7,7 +7,7 @@ This repository collects scripts for creating Thai TTS dataset.
 
 ## Steps:
 
-1.We was doing the voice design to creating new voice that don't exist. See voice-design.ipynb
+1. We was doing the voice design to creating new voice that don't exist. See voice-design.ipynb
 2. Cleaning text from many sources. See n0-clean-text.ipynb
 3. Make voice dataset by using voice cloning to creating dataset. See n1-make-voice.py
 4. Filter dataset. See n2-filter_dataset.py, n3-filter2-and-count.py and n4-clean-text.ipynb.
