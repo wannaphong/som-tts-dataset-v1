@@ -4,8 +4,10 @@ Som TTS dataset is a Open Data Thai TTS. It was created by open-weight TTS model
 
 This repository collects scripts for creating Thai TTS dataset.
 
+TTS Model that use this dataset: [https://github.com/awslabs/FastThaiG2P](https://github.com/awslabs/FastThaiG2P)
 
-## Steps:
+
+## Steps to creating dataset:
 
 1. We was doing the voice design to creating new voice that don't exist. See voice-design.ipynb
 2. Cleaning text from many sources. See n0-clean-text.ipynb
@@ -16,6 +18,8 @@ This repository collects scripts for creating Thai TTS dataset.
 
 We use OmniVoice weight that still be Apache license 2.0 to creating this dataset. [https://huggingface.co/wannaphong/OmniVoice](https://huggingface.co/wannaphong/OmniVoice)
 
+
+**Don't forget clearing by ASR model before use the dataset***
 
 ## Citation
 
