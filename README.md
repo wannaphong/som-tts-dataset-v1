@@ -21,7 +21,7 @@ TTS Model that use this dataset: [https://github.com/awslabs/FastThaiG2P](https:
 We use OmniVoice weight that still be Apache license 2.0 to creating this dataset. [https://huggingface.co/wannaphong/OmniVoice](https://huggingface.co/wannaphong/OmniVoice)
 
 
-**Don't forget clearing by ASR model before use the dataset***
+**Don't forget clearing by ASR model before use the dataset because some voice are missing or isn't complete**
 
 ## Citation
 
